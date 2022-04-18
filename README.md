@@ -1,6 +1,6 @@
 # Netflix Analysis
 ### Project At A Glance
-* Link to code: [here](https://github.com/NhiDang1001/SQL_Netflix_Analysis/blob/main/Netflix.sql
+* Link to code: [here](https://github.com/NhiDang1001/SQL_Netflix_Analysis/blob/main/Netflix.sql)
 
 
 ### Links to Other Projects
